@@ -1,0 +1,4 @@
+*.o
+chip8
+tags
+*.ch8
